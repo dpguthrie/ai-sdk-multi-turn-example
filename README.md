@@ -4,7 +4,12 @@ This repository demonstrates how to implement multi-turn conversation tracing us
 
 ## 🎥 Demo
 
-https://github.com/user/repo/assets/your-video-id/CleanShot%202025-10-14%20at%2016.19.42.mp4
+<video width="600" controls>
+  <source src="CleanShot 2025-10-14 at 16.19.42.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*Note: If the video doesn't load, you can [download it directly](CleanShot%202025-10-14%20at%2016.19.42.mp4) from the repository.*
 
 ## 🚀 Features
 
