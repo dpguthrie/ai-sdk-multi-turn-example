@@ -4,7 +4,7 @@ This repository demonstrates how to implement multi-turn conversation tracing us
 
 ## 🎥 Demo
 
-<a href="https://share.cleanshot.com/1q2JKdH0" title="AI SDK Demo" src="https://github.com/dpguthrie/ai-sdk-multi-turn-example/blob/main/demo.png">See Demo</a>
+<a href="https://share.cleanshot.com/1q2JKdH0" title="AI SDK Demo"><img src="https://github.com/dpguthrie/ai-sdk-multi-turn-example/blob/main/demo.png" alt="Screenshot" /></a>
 
 ## 🚀 Features
 
